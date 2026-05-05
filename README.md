@@ -1,29 +1,56 @@
 # Zeman Khalil ePortfolio
 
 ## Overview
-This is my Computer Science ePortfolio showcasing projects in software development, algorithms, and database design.
+This portfolio showcases my work in software development, algorithms, and database design. Each project demonstrates practical problem-solving, code structure, and system design.
+
+---
 
 ## Projects
 
 ### Student Management System
-Java application for managing student records.
+A Java-based application that allows users to manage student records through a console interface.
+
+**Key Concepts:**
+- Object-Oriented Programming (OOP)
+- Data storage using ArrayList
+- Input handling and validation
+
 🔗 https://github.com/zemankhalil/student-management-system
 
+---
+
 ### Inventory Management System
-Java-based system using HashMap for efficient data storage.
+A Java application that manages inventory using a HashMap for fast data access.
+
+**Key Concepts:**
+- HashMap for efficient lookup (O(1))
+- Data organization and search optimization
+- System design for scalability
+
 🔗 https://github.com/zemankhalil/inventory-system
 
+---
+
 ### Database Project
-SQL database demonstrating relational schema and normalization.
+A relational database design demonstrating normalized tables and relationships.
+
+**Key Concepts:**
+- SQL table design
+- Primary and foreign keys
+- Data normalization
+
 🔗 https://github.com/zemankhalil/database-project
 
-## Skills
-- Java
-- Python
-- SQL
-- Data Structures
-- Algorithms
-- Software Design
+---
+
+## Skills Demonstrated
+- Java Programming
+- Data Structures (ArrayList, HashMap)
+- Algorithms and Efficiency
+- SQL and Database Design
+- Software Design and Problem Solving
+
+---
 
 ## Purpose
-This portfolio demonstrates my ability to design, develop, and improve software systems as part of my Computer Science degree.
+This portfolio demonstrates my ability to design, build, and improve software systems as I prepare for a career in software development.
